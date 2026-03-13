@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\pruebaActiveMQ\pruebaActiveMQ\bin\Debug\pruebaActiveMQ.exe.config
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\pruebaActiveMQ\pruebaActiveMQ\bin\Debug\pruebaActiveMQ.exe
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\pruebaActiveMQ\pruebaActiveMQ\bin\Debug\pruebaActiveMQ.pdb
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\pruebaActiveMQ\pruebaActiveMQ\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\pruebaActiveMQ\pruebaActiveMQ\bin\Debug\Apache.NMS.dll
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\pruebaActiveMQ\pruebaActiveMQ\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\pruebaActiveMQ\pruebaActiveMQ\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\pruebaActiveMQ\pruebaActiveMQ\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\pruebaActiveMQ\pruebaActiveMQ\obj\Debug\pruebaActiveMQ.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\pruebaActiveMQ\pruebaActiveMQ\obj\Debug\pruebaActiveMQ.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\pruebaActiveMQ\pruebaActiveMQ\obj\Debug\pruebaAc.8885079B.Up2Date
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\pruebaActiveMQ\pruebaActiveMQ\obj\Debug\pruebaActiveMQ.exe
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\pruebaActiveMQ\pruebaActiveMQ\obj\Debug\pruebaActiveMQ.pdb
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\pruebaActiveMQ\pruebaActiveMQ\obj\Debug\pruebaActiveMQ.exe.config

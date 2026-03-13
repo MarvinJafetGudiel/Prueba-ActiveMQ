@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\receptorMensajes\receptorMensajes\bin\Debug\receptorMensajes.exe.config
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\receptorMensajes\receptorMensajes\bin\Debug\receptorMensajes.exe
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\receptorMensajes\receptorMensajes\bin\Debug\receptorMensajes.pdb
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\receptorMensajes\receptorMensajes\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\receptorMensajes\receptorMensajes\bin\Debug\Apache.NMS.dll
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\receptorMensajes\receptorMensajes\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\receptorMensajes\receptorMensajes\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\receptorMensajes\receptorMensajes\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\receptorMensajes\receptorMensajes\obj\Debug\receptorMensajes.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\receptorMensajes\receptorMensajes\obj\Debug\receptorMensajes.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\receptorMensajes\receptorMensajes\obj\Debug\receptor.3AC57431.Up2Date
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\receptorMensajes\receptorMensajes\obj\Debug\receptorMensajes.exe
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\receptorMensajes\receptorMensajes\obj\Debug\receptorMensajes.pdb
+C:\Users\HP\Documents\Tareas Progra lll\Exposicion de herramientas\receptorMensajes\receptorMensajes\obj\Debug\receptorMensajes.exe.config
